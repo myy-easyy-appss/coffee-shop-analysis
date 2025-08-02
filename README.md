@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Dashboard Analysis
+# ☕ Coffee Shop Sales Analysis
 
 An interactive and visually-rich dashboard built to analyze and track sales metrics for a multi-category coffee shop. This project explores sales trends across product types, time of day, customer behavior, and store locations to derive actionable insights.
 
